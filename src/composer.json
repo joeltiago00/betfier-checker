@@ -1,0 +1,20 @@
+{
+    "name": "alvez2g/betfier-checker",
+    "description": "this is free a login checker for betfier.",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "alvez2g"
+        },
+        {
+            "name": "cariocap2"
+        }
+    ],
+  "require": {
+    "ext-curl": "*"
+  }
+}
